@@ -1,10 +1,10 @@
-GettingAndCleaningData Course Project
+# GettingAndCleaningData Course Project
 =====================================
 The Getting And Cleaning Data Course Project requires you to download a set of Data from the following study:
 
 ==================================================================
-Human Activity Recognition Using Smartphones Dataset
-Version 1.0
+## Human Activity Recognition Using Smartphones Dataset
+### Version 1.0
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory

@@ -1,4 +1,3 @@
-# GettingAndCleaningData
 GettingAndCleaningData Course Project
 =====================================
 The Getting And Cleaning Data Course Project requires you to download a set of Data from the following study:

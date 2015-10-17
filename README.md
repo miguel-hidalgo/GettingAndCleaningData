@@ -1,5 +1,6 @@
 # GettingAndCleaningData
 GettingAndCleaningData Course Project
+=====================================
 The Getting And Cleaning Data Course Project requires you to download a set of Data from the following study:
 
 ==================================================================
@@ -27,13 +28,13 @@ For each record it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-The following operations were executed by th R script called run_analysis.R:
+#The following operations were executed by th R script called run_analysis.R:
 
-1.Merges the training and the test sets to create one data set.
-2.Extracts only the measurements on the mean and standard deviation for each measurement. 
-3.Uses descriptive activity names to name the activities in the data set
-4.Appropriately labels the data set with descriptive variable names. 
-5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable
+1. Merges the training and the test sets to create one data set.
+2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+3. Uses descriptive activity names to name the activities in the data set
+4. Appropriately labels the data set with descriptive variable names. 
+5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable
 for each activity and each subject.
 
 All data must be located in the "data" directory inside the project home directory ("./data" in the original order that the 

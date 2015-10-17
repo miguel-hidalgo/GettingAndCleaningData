@@ -26,11 +26,11 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ####The following operations were executed by th R script called run_analysis.R:
 
-1. Merges the training and the test sets to create one data set.
-2. Extracts only the measurements on the mean and standard deviation for each measurement. 
-3. Uses descriptive activity names to name the activities in the data set
-4. Appropriately labels the data set with descriptive variable names. 
-5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable
+* Merges the training and the test sets to create one data set.
+* Extracts only the measurements on the mean and standard deviation for each measurement. 
+** Creates individual 12 data sets, one for each measurement of the mean (6) and one for each measuremnt of the StdDev (6). 
+** Uses descriptive activity names to name the activities in the data set and the variables are labeled accordingly.
+* From the data sets created previously, creates a second, single independent tidy data set with the average of each variable
 for each activity and each subject.
 
 All data must be located in the "data" directory inside the project home directory ("./data" in the original order that the 

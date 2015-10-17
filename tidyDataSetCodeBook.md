@@ -1,5 +1,15 @@
 #tidyDataSet Code Book:
 
+The tidy-DataSet is made of 4 columns (variables) as follows:
+
+1. Measurement Description: 
+   Data type- Character
+2. X_Axis:
+   Data type- Numeric
+3. Y_Axis:
+   Data type- Numeric
+4. Z_Axis:
+   Data type- Numeric
 
 
 

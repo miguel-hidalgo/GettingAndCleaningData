@@ -1,9 +1,9 @@
-## GettingAndCleaningData Course Project
+### GettingAndCleaningData Course Project
 ===========================================
-###The Getting And Cleaning Data Course Project requires you to download a set of Data from the following study:
+#####The Getting And Cleaning Data Course Project requires you to download a set of Data from the following study:
 ==================================================================
 ### Human Activity Recognition Using Smartphones Dataset
-#### Version 1.0
+##### Version 1.0
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
@@ -16,7 +16,7 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain. See 'features_info.txt' for more details. 
 
-###For each record it is provided:
+####For each record it is provided:
 ==============================
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 - Triaxial Angular velocity from the gyroscope. 
@@ -24,7 +24,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-###The following operations were executed by th R script called run_analysis.R:
+####The following operations were executed by th R script called run_analysis.R:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
@@ -38,8 +38,8 @@ data decompresses after download, files for the test set under "./data/test" and
 
 For a Description of the tidyDataSet, read the tidyDataSetCodeBook.md
 
-###The original data is provided by:
-###License:
+####The original data is provided by:
+####License:
 ========
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
 
@@ -48,8 +48,3 @@ Use of this dataset in publications must be acknowledged by referencing the foll
 This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited.
 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
-
-
-
-
- 

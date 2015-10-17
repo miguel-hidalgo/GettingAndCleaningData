@@ -64,9 +64,6 @@ tags will be replaced.-->
 
 <div id="tidyDataSet_23373" align=center x:publishsource="Excel">
 
-<h1 style='color:black;font-family:Calibri;font-size:14.0pt;font-weight:800;
-font-style:normal'>Tidy Data Set - Averages of Means and Standard Deviations</h1>
-
 <table border=0 cellpadding=0 cellspacing=0 width=685 style='border-collapse:
  collapse;table-layout:fixed;width:515pt'>
  <col width=418 style='mso-width-source:userset;mso-width-alt:15286;width:314pt'>

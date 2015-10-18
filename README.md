@@ -24,7 +24,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-####The following operations were executed by th R script called run_analysis.R:
+####The following operations were executed by the R script called run_analysis.R:
 
 * Merges the training and the test sets to create one data set.
 * Extracts only the measurements on the mean and standard deviation for each measurement. 

@@ -2,16 +2,34 @@
 
 The tidy-DataSet is made of 4 columns (variables) as follows:
 
-1. Measurement Description: 
+1. Measurement Description:
+
    Data type- Character
+   12 possible measurements descriptions
+   
 2. X_Axis:
    Data type- Numeric
+   All values are between -1 and 1
+   Values are averages of means or standard deviations
+
 3. Y_Axis:
+
    Data type- Numeric
+   All values are between -1 and 1
+   Values are averages of means or standard deviations
+
 4. Z_Axis:
+
    Data type- Numeric
+   All values are between -1 and 1
+   Values are averages of means or standard deviations
 
+This data set is based on a data set with 12 files containing 3 measurements (X, Y & Z), extracted from the original  
+Human Activity Recognition Using Smartphones Dataset.  Six Means data files with (X/Y/Z) measurements and 6 Standar Deviations files with (X/Y/Z) measurements were created.
 
+For more information how the data was extractd, see the Readme.MD file and the run_analysis.R script.
+
+Below is the tidy Data Set created by the run_analysis.R:
 
 <html xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:x="urn:schemas-microsoft-com:office:excel"

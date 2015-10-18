@@ -6,24 +6,31 @@ The tidy-DataSet is made of 4 columns (variables) as follows:
 
    Data type- Character
    12 possible measurements descriptions 
+   
    (See data set below)
    
 2. X_Axis:
 
    Data type- Numeric
+   
    All values are between -1 and 1
+   
    Values are averages of means or standard deviations
 
 3. Y_Axis:
 
    Data type- Numeric
+   
    All values are between -1 and 1
+   
    Values are averages of means or standard deviations
 
 4. Z_Axis:
 
    Data type- Numeric
+   
    All values are between -1 and 1
+   
    Values are averages of means or standard deviations
 
 This data set is based on a data set with 12 files containing 3 measurements (X, Y & Z), extracted from the original  

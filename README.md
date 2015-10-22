@@ -38,7 +38,7 @@ data decompresses after download, files for the test set under "./data/test" and
 
 For a Description of the tidyDataSet, read the tidyDataSetCodeBook.md
 
-Tidy Data Set Below:
+Tidy Data Sample Set Below:
 
 <html xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:x="urn:schemas-microsoft-com:office:excel"
@@ -48,8 +48,69 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=ProgId content=Excel.Sheet>
 <meta name=Generator content="Microsoft Excel 15">
-<link rel=File-List href="tidyDataSet_files/filelist.xml">
-<title>Tidy Data Set - Averages of Means and Standard Deviations</title>
+<link rel=File-List href="tidyAverageDataSetDT_files/filelist.xml">
+<style id="tidyAverageDataSetDT_686_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl15686
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl63686
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl64686
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:#C6E0B4;
+	mso-pattern:black none;
+	white-space:nowrap;}
+-->
+</style>
 </head>
 
 <body>
@@ -62,107 +123,273 @@ tags will be replaced.-->
 <!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
 <!----------------------------->
 
-<div id="tidyDataSet_23373" align=center x:publishsource="Excel">
+<div id="tidyAverageDataSetDT_686" align=center x:publishsource="Excel">
 
-<table border=0 cellpadding=0 cellspacing=0 width=685 style='border-collapse:
- collapse;table-layout:fixed;width:515pt'>
+<table border=0 cellpadding=0 cellspacing=0 width=863 style='border-collapse:
+ collapse;table-layout:fixed;width:649pt'>
  <col width=418 style='mso-width-source:userset;mso-width-alt:15286;width:314pt'>
- <col width=89 span=3 style='mso-width-source:userset;mso-width-alt:3254;
+ <col width=118 style='mso-width-source:userset;mso-width-alt:4315;width:89pt'>
+ <col width=65 style='mso-width-source:userset;mso-width-alt:2377;width:49pt'>
+ <col width=84 style='mso-width-source:userset;mso-width-alt:3072;width:63pt'>
+ <col width=89 span=2 style='mso-width-source:userset;mso-width-alt:3254;
  width:67pt'>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl6323373 width=418 style='height:15.0pt;width:314pt'>Measurement_Description</td>
-  <td class=xl6323373 width=89 style='border-left:none;width:67pt'>X_Axis</td>
-  <td class=xl6323373 width=89 style='border-left:none;width:67pt'>Y_Axis</td>
-  <td class=xl6323373 width=89 style='border-left:none;width:67pt'>Z_Axis</td>
+  <td height=20 class=xl64686 width=418 style='height:15.0pt;width:314pt'>Measurement_Description</td>
+  <td class=xl64686 width=118 style='border-left:none;width:89pt'>Subjects_Number</td>
+  <td class=xl64686 width=65 style='border-left:none;width:49pt'>Activities</td>
+  <td class=xl64686 width=84 style='border-left:none;width:63pt'>X_Axis</td>
+  <td class=xl64686 width=89 style='border-left:none;width:67pt'>Y_Axis</td>
+  <td class=xl64686 width=89 style='border-left:none;width:67pt'>Z_Axis</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl6423373 style='height:15.0pt;border-top:none'>Average
-  of Time Body Acceleration Means</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>0.274347261</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.017743492</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.108925033</td>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Mean</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>1</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>1</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>0.277330759</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.017383819</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.111148104</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl6423373 style='height:15.0pt;border-top:none'>Average
-  of Time Body Gravity Acceleration Means</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>0.669226222</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>0.004038791</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>0.09215086</td>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Mean</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>1</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>2</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>0.25546169</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.023953149</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.097302002</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl6423373 style='height:15.0pt;border-top:none'>Average
-  of Time Body Acceleration Jerk Means</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>0.078938122</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>0.007948107</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.004674698</td>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Mean</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>1</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>3</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>0.28918832</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.009918505</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.107566191</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl6423373 style='height:15.0pt;border-top:none'>Average
-  of Time Body Gyro Means</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.030982487</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.074719486</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>0.088357304</td>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Mean</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>1</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>4</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>0.261237565</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.001308288</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.104544182</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl6423373 style='height:15.0pt;border-top:none'>Average
-  of Frequency Body Acceleration Means</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.622761658</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.537493281</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.665033506</td>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Mean</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>1</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>5</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>0.278917629</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.01613759</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.110601818</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl6423373 style='height:15.0pt;border-top:none'>Average
-  of Frequency Body Acceleration Jerk Means</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.656713525</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.62896118</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.743608246</td>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Mean</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>1</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>6</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>0.221598244</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.040513953</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.113203554</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl6423373 style='height:15.0pt;border-top:none'>Average
-  of Time Body Acceleration Standard Deviation</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.965207115</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.954408027</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.938900969</td>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Mean</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>2</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>1</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>0.276426586</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.01859492</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.105500358</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl6423373 style='height:15.0pt;border-top:none'>Average
-  of Time Gravity Acceleration Standard Deviation</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.965207115</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.954408027</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.938900969</td>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Mean</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>2</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>2</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>0.24716479</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.021412113</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.1525139</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl6423373 style='height:15.0pt;border-top:none'>Average
-  of Time Body Acceleration Jerk Standard Deviation</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.639781021</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.607971599</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.76282024</td>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Mean</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>2</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>3</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>0.277615348</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.022661416</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.116812942</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl6423373 style='height:15.0pt;border-top:none'>Average
-  of Time Body Gyro Standard Deviation</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.721192598</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.682653507</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.653665674</td>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Mean</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>2</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>4</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>0.277087352</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.015687994</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.109218272</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl6423373 style='height:15.0pt;border-top:none'>Average
-  of Frequency Body Acceleration Standard Deviation</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.603356277</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.52842001</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.617874813</td>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Mean</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>2</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>5</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>0.277911472</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.018420827</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.105908536</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl6423373 style='height:15.0pt;border-top:none'>Average
-  of Frequency Body Acceleration Jerk Standard Deviation</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.654979817</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.61224359</td>
-  <td class=xl6423373 align=right style='border-top:none;border-left:none'>-0.780928428</td>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Mean</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>2</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>6</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>0.281373404</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.01815874</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.10724561</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>10</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>1</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.17870973</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.022743165</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.395645072</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>10</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>2</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.16159192</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.005552877</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.073874493</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>10</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>3</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>0.295733548</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>0.004079154</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.183557562</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>10</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>4</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.98290183</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.91797953</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.967826982</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>10</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>5</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.97840348</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.919561843</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.94127144</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Time Body Acceleration Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>10</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>6</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.96828369</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.946454302</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.959471486</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Frequency Body Acceleration Jerk Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>29</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>3</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.09863792</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.120381521</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.547320887</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Frequency Body Acceleration Jerk Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>29</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>4</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.99422018</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.985493319</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.990445862</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Frequency Body Acceleration Jerk Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>29</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>5</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.99412342</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.984782782</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.991316375</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Frequency Body Acceleration Jerk Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>29</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>6</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.99254348</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.990468083</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.99310776</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Frequency Body Acceleration Jerk Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>30</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>1</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.4151354</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.289466095</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.575410267</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Frequency Body Acceleration Jerk Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>30</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>2</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.56156521</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.610826602</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.78475388</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Frequency Body Acceleration Jerk Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>30</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>3</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.28980273</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.217432019</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.535515048</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Frequency Body Acceleration Jerk Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>30</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>4</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.99001756</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.981902116</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.988971212</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl63686 style='height:15.0pt;border-top:none'>Average of
+  Frequency Body Acceleration Jerk Standard Deviation</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>30</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>5</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.97221673</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.960442361</td>
+  <td class=xl63686 style='border-top:none;border-left:none'>-0.973954338</td>
  </tr>
  <![if supportMisalignedColumns]>
  <tr height=0 style='display:none'>
   <td width=418 style='width:314pt'></td>
-  <td width=89 style='width:67pt'></td>
+  <td width=118 style='width:89pt'></td>
+  <td width=65 style='width:49pt'></td>
+  <td width=84 style='width:63pt'></td>
   <td width=89 style='width:67pt'></td>
   <td width=89 style='width:67pt'></td>
  </tr>

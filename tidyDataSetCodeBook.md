@@ -39,7 +39,8 @@ The tidyAverageDataSetDT is made of 2160 observations and 6 columns (variables) 
    Range (From 1 to 30).  It represents the 30 subjects that participated in the experiment
    
    
-3. Activities 
+3. Activities:
+
    Data type- factor
 
    Range (From 1 to 6).  It represents the 6 activities of the experiment.  See below table:
@@ -114,7 +115,7 @@ tags will be replaced.-->
 
 </html>
 
-2. X_Axis:
+4. X_Axis:
 
    Data type- Numeric
    
@@ -122,7 +123,7 @@ tags will be replaced.-->
    
    Values are averages of means or standard deviations
 
-3. Y_Axis:
+5. Y_Axis:
 
    Data type- Numeric
    
@@ -130,7 +131,7 @@ tags will be replaced.-->
    
    Values are averages of means or standard deviations
 
-4. Z_Axis:
+6. Z_Axis:
 
    Data type- Numeric
    
@@ -138,12 +139,12 @@ tags will be replaced.-->
    
    Values are averages of means or standard deviations
 
-   The tidy dataset has 2160 observations which represent 30 subjects x 6 Activities x 12 Measurement Types/Descriptions (Averages & Standard Deviations).  So, for Subject 1, there are 6 activities (From 1 to 6) each with 12 Measurements of the Means, Standard Deviations, Jerk, Gravity, Freq for the X, Y and Z axis. 
+   The tidy dataset has 2160 observations which represent 30 subjects x 6 Activities x 12 Measurement Types/Descriptions (Averages & Standard Deviations).  So, for Subject 1, there are 6 activities (From 1 to 6) each with 12 Measurements of the Means, Standard Deviations, Jerk, Gravity, Freq for the X, Y and Z axis and so on.
 
 
 For more information how the data was extracted, see the Readme.MD file and the run_analysis.R script.
 
-Below is the tidy Data Set created by the run_analysis.R:
+Below is a sample set of the tidy Data Set created by the run_analysis.R:
 
 <html xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:x="urn:schemas-microsoft-com:office:excel"

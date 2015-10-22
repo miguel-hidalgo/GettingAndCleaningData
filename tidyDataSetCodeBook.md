@@ -8,26 +8,42 @@ The tidy-DataSet is made of 2160 observations and 6 columns (variables) as follo
    12 possible measurements descriptions 
    
    1-Average of Time Body Acceleration Means
+   
    2-Average of Time Body Gravity Acceleration Means
+   
    3-Average of Time Body Acceleration Jerk Means
+   
    4-Average of Time Body Gyro Means
+   
    5-Average of Frequency Body Acceleration Means
+   
    6-Average of Frequency Body Acceleration Jerk Means
+   
    7-Average of Time Body Acceleration Standard Deviation
+   
    8-Average of Time Gravity Acceleration Standard Deviation
+   
    9-Average of Time Body Acceleration Jerk Standard Deviation
+   
    10-Average of Time Body Gyro Standard Deviation
+   
    11-Average of Frequency Body Acceleration Standard Deviation
+   
    12-Average of Frequency Body Acceleration Jerk Standard Deviation
+   
 
 2. Subjects_Number:
 
    Data type- Numeric
+   
    Range (From 1 to 30).  It represents the 30 subjects that participated in the experiment
+   
    
 3. Activities 
    Data type- factor
+
    Range (From 1 to 6).  It represents the 6 activities of the experiment.  See below table:
+   
 
 <html xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:x="urn:schemas-microsoft-com:office:excel"
@@ -121,6 +137,9 @@ tags will be replaced.-->
    All values are between -1 and 1
    
    Values are averages of means or standard deviations
+
+   The tidy dataset has 2160 observations which represent 30 subjects x 6 Activities x 12 Measurement Types/Descriptions (Averages & Standard Deviations).  So, for Subject 1, there are 6 activities (From 1 to 6) each with 12 Measurements of the Means, Standard Deviations, Jerk, Gravity, Freq for the X, Y and Z axis. 
+
 
 For more information how the data was extracted, see the Readme.MD file and the run_analysis.R script.
 

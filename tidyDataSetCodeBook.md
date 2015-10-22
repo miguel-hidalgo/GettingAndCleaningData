@@ -1,6 +1,6 @@
-#tidyDataSet Code Book:
+#tidyAverageDataSetDT Code Book:
 
-The tidy-DataSet is made of 2160 observations and 6 columns (variables) as follows:
+The tidyAverageDataSetDT is made of 2160 observations and 6 columns (variables) as follows:
 
 1. Measurement Description:
 
